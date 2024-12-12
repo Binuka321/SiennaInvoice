@@ -13,13 +13,13 @@ export default function Footer() {
             <span className="font-bold">Email:</span> siennaretreat@gmail.com
           </li>
           <li>
-            <span className="font-bold">Phone number:</span> +94767654321
+            <span className="font-bold">Phone number:</span> +94778581055
           </li>
           <li>
             <span className="font-bold">Bank:</span> Bank of Ceylon
           </li>
           <li>
-            <span className="font-bold">Account holder:</span> Sienna Retreat
+            <span className="font-bold">Account holder:</span> H.P Somarathne
           </li>
           <li>
             <span className="font-bold">Account number:</span> 8906890504
